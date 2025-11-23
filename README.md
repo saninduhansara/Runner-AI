@@ -2,7 +2,7 @@
 
 
 
-<img src="images/image.gif" alt="Logo" width="300"/>
+<img src="images/image.gif" alt="image" width="500"/>
 
 
 
@@ -127,7 +127,7 @@ The model outputs a probability for:
 
 ### Training
 
-<img src="images/chart.PNG" alt="chart" width="300"/>
+<img src="images/chart.PNG" alt="chart" width="500"/>
 
 
 
