@@ -36,7 +36,7 @@ Through trial and error, the AI optimizes its strategy to maximize the score, ev
 
 ## 🛠️ Installation
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 
 
 2.  **Install dependencies:**
@@ -63,7 +63,7 @@ Through trial and error, the AI optimizes its strategy to maximize the score, ev
 ### 1. Train the AI
 To start training the agent from scratch:
 
-- Run python agent.py
+- Run agent.py
 
 - A window will open showing the game running at max speed.
 
@@ -74,7 +74,7 @@ To start training the agent from scratch:
 ### 2. Test the Model
 To watch the trained AI play at normal speed (60 FPS):
 
-- Run python test.py
+- Run test.py
 - *Note: Ensure you have a model/model.pth file generated from the training step.*
 
 ## How it Works
