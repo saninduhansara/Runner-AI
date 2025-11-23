@@ -46,7 +46,7 @@ Through trial and error, the AI optimizes its strategy to maximize the score, ev
     ```
 
 3.  **Assets:**
-    Ensure your project folder contains the `graphics` and `audio` folders. The structure should look like this:
+    Ensure your project folder contains the `graphics` and `font` folders. The structure should look like this:
     ```text
     Runner-ai/
     ├── graphics/
